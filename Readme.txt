@@ -1,1 +1,1 @@
-Github: i am kinda struggling to get it working
+Finally it is working :)
